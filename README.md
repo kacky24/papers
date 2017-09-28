@@ -1,4 +1,4 @@
 # articles
 
-short summaries of articles I have read.
-the are listed in 'issues'.
+Short summaries of articles I have read.<br>
+The are listed in 'issues'.
