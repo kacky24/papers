@@ -4,6 +4,9 @@ Short summaries of papers I have read are listed in 'issues'.<br>
 
 ## Publications
 ### Proceedings (Reviewd)
+- K. Kakiuchi, M. Nishiguchi, F. Toriumi, M. Takano, K. Wada, I. Fukuda
+"What influences people to broaden their horizons?", The IEEE/WIC/ACM International Conference on Web Intelligence (WI), 2018.
+
 - K. Kakiuchi, F. Toriumi, M. Takano, K. Wada, I. Fukuda
 "Influence of Selective Exposure to Viewing Contents Diversity", The 10th International Conference on Social Informatics (SocInfo), 2018.（Best Paper) [[paper](https://arxiv.org/pdf/1807.08744.pdf)] [[slide](https://socinfo2018.hse.ru/)] [[link1](https://www.t.u-tokyo.ac.jp/soe/topics/setnws_201810191455125314486632.html)] [[link2](https://www.cyberagent.co.jp/news/detail/id=22397)]
 
